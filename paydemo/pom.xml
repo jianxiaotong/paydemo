@@ -106,7 +106,7 @@
             <artifactId>httpclient</artifactId>
             <version>4.3.4</version><!--$NO-MVN-MAN-VER$-->
         </dependency>
-        <!-- dom4j -->
+        <!-- dom4j 这是一个依赖-->
         <dependency>
             <groupId>dom4j</groupId>
             <artifactId>dom4j</artifactId>
